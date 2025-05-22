@@ -1,4 +1,4 @@
-<h1>Projeto We Care - Responsivo :computer: :iphone:</h1>
+<h1>Projeto We Care - Responsivo</h1>
 <br>
 <br>
 <h2>A importancia dos sites responsivos:</h2>
@@ -11,4 +11,3 @@
 <br>
 <img src="https://github.com/emerson2204/Projeto-We-Care-Responsivo/blob/main/Projeto%20We%20Care%20Responsivo/assets/Captura%20de%20tela%202025-05-21%20192751.png?raw=true"/>
 
-<img src="https://github.com/emerson2204/Projeto-We-Care-Responsivo/blob/main/Projeto%20We%20Care%20Responsivo/assets/Captura%20de%20tela%202025-05-21%20192653.png?raw=true"/>
